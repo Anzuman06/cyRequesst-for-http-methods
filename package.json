@@ -1,0 +1,17 @@
+{
+  "name": "project4",
+  "version": "1.0.0",
+  "description": "1st api request",
+  "main": "1st_API_Request.cy.js",
+  "scripts": {
+    "test": "cypress request test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Snigdha",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0"
+  }
+}
