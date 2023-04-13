@@ -1,5 +1,5 @@
 # cyRequesst-for-http-methods
-API test using get, push, put and delete http methods with cypress
+API tests using GET, PUSH, PUT and DELETE http methods in cypress
 
 
 https://user-images.githubusercontent.com/114046009/231632496-f79db6b2-e8a4-4b4a-91b0-e12ef23c22e3.mp4
