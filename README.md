@@ -2,7 +2,7 @@
 API tests using GET, PUSH, PUT and DELETE http methods in cypress
 
 
-https://user-images.githubusercontent.com/114046009/231632496-f79db6b2-e8a4-4b4a-91b0-e12ef23c22e3.mp4
+https://user-images.githubusercontent.com/114046009/231636336-2f804466-8f11-4c18-884b-4963338c8263.mp4
 
 
 
